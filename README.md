@@ -8,6 +8,7 @@ Este es un simple proyecto de HTML, CSS y JavaScript que muestra un mensaje inte
 
 ```bash
 git clone https://github.com/MiguelAntonioRS/Happy-Valentine-s-Day/
+```
 
 Abre el archivo index.html en tu navegador web para ver la aplicación en acción.
 
