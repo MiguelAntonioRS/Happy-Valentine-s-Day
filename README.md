@@ -6,7 +6,7 @@ Este es un simple proyecto de HTML, CSS y JavaScript que muestra un mensaje inte
  
 1. Clona este repositorio en tu máquina local:
 
-```bash
+```bash 
 git clone https://github.com/MiguelAntonioRS/Happy-Valentine-s-Day/
 ```
 
