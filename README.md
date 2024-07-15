@@ -18,7 +18,7 @@ Abre el archivo index.html en tu navegador web para ver la aplicación en acció
     Si haces clic en "Sí", el mensaje cambiará a "¡Perfecto, nos vemos mañana!" y se mostrará un gif animado.
     Si pasas el ratón sobre el botón "No", este se moverá aleatoriamente dentro de la ventana del navegador.
 
-Estructura del Proyecto
+### Estructura del Proyecto
 
     index.html: Archivo principal HTML que contiene la estructura de la página.
     style.css: Archivo CSS que define los estilos de la página.
