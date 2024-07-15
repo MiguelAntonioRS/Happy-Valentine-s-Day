@@ -1,8 +1,8 @@
-# Mensaje Interactivo por el 14 de Febrero 
+# Mensaje Interactivo por el 14 de Febrero. 
  
 Este es un simple proyecto de HTML, CSS y JavaScript que muestra un mensaje interactivo y permite al usuario responder con "Sí" o "No".
 
-## Instalación
+## Instalación.
  
 1. Clona este repositorio en tu máquina local: 
  
@@ -12,7 +12,7 @@ git clone https://github.com/MiguelAntonioRS/Happy-Valentine-s-Day/
 
 Abre el archivo index.html en tu navegador web para ver la aplicación en acción.
 
-Uso
+### Uso
 
     La pregunta "¿Quieres salir conmigo?" aparecerá en la pantalla junto con dos botones: "Sí" y "No".
     Si haces clic en "Sí", el mensaje cambiará a "¡Perfecto, nos vemos mañana!" y se mostrará un gif animado.
