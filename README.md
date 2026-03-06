@@ -1,5 +1,5 @@
 # Mensaje Interactivo por el 14 de Febrero. 
- 
+
 Este es un simple proyecto de HTML, CSS y JavaScript que muestra un mensaje interactivo y permite al usuario responder con "Sí" o "No".
 
 ## Instalación.
